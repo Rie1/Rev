@@ -253,7 +253,7 @@ KAC=[vipro]
 mid = vipro.getProfile().mid
 Bots=[mid]
 Creator=["u082612f1351f554fffb1a120f32a9b0e"]
-admin=["uda936836a9869eb86ec8ab992a4e8979"]
+admin=["u082612f1351f554fffb1a120f32a9b0e" "uc109d63a3bf958b781f21535e7e89055"]
 
 contact = vipro.getProfile()
 backup1 = vipro.getProfile()
